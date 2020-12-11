@@ -31,6 +31,27 @@ body, html {
   background-size: cover;
 }
 
+.page-heading-team {
+  background-color: rgb(41, 41, 41);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  text-align: left;
+}
+
+.page-heading-team .heading-content h1 {
+  font-size: 32px;
+  text-transform: uppercase;
+  color: rgb(219, 219, 219);
+  letter-spacing: 1px;
+  background-color: rgb(49, 49, 49);
+  display: inline-block;
+  margin-bottom: 0;
+  margin-top: 140px;
+  padding: 20px 60px;
+}
+
 .page-heading {
   background-image: url(../option5.jpg);
   background-repeat: no-repeat;
