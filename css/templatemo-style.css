@@ -342,10 +342,12 @@ nav {
 .portfolio-item img {
   width: 100%;
   overflow: hidden;
+  
 }
 
 .portfolio-item .thumb {
   position: relative;
+  
 }
 
 
