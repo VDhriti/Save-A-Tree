@@ -338,11 +338,9 @@ nav {
   padding-right: 0px;
 }
 
-
-.portfolio-item img {
-  width: 100%;
+.portfolio-item .test img {
+  width: 100%;  
   overflow: hidden;
-  
 }
 
 
